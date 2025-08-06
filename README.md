@@ -63,7 +63,7 @@ You can modify and extend this project to support more device types and traits s
 
 ## 🧑‍💻 My Role
 
-> 👩‍💻 **Developed**  
+> 👩‍💻 **Developer**  
 > Designed and developed the entire smart home backend, implemented OAuth-based account linking, and ensured compliance with Google’s smart home requirements.
 
 ---
